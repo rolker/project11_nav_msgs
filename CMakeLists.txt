@@ -4,6 +4,8 @@ find_package(catkin REQUIRED roscpp std_msgs message_generation geometry_msgs)
 
 add_message_files(
   FILES
+  Curve.msg
+  CurvedTrajectory.msg
   Task.msg
   Trajectory.msg
 )
