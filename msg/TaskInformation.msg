@@ -1,4 +1,4 @@
-# A navigation task to be accomplished.
+# Information about a navigation task to be accomplished.
 
 # Tasks may be nested using slashes in 
 # the id field. For example: A task named
