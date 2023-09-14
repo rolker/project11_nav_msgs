@@ -38,3 +38,6 @@ string                      status
 
 # Flag to indicate task is completed.
 bool                        done
+
+# List of behaviors that may be attached to a task
+project11_msgs/BehaviorInformation[] behaviors
