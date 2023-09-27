@@ -8,6 +8,7 @@ add_message_files(
   CurvedTrajectory.msg
   RobotState.msg
   TaskInformation.msg
+  TaskInformationList.msg
   Trajectory.msg
 )
 
