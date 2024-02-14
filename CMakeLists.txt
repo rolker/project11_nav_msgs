@@ -4,8 +4,14 @@ find_package(catkin REQUIRED roscpp std_msgs message_generation geometry_msgs pr
 
 add_message_files(
   FILES
+  BoundingBox.msg
   Curve.msg
   CurvedTrajectory.msg
+  GeoOccupancyPolygon.msg
+  GeoOccupancyVectorMap.msg
+  GeoPolygon.msg
+  OccupancyPolygon.msg
+  OccupancyVectorMap.msg
   RobotState.msg
   TaskFeedback.msg
   TaskInformation.msg
